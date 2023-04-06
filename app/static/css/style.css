@@ -1,0 +1,17 @@
+.content {
+    background: #f0e5dd;
+    padding: 50px;
+}
+
+.movie-card {
+      max-width: 200px;
+      }
+
+      .movie-card img {
+      height: 290px;
+      }
+
+
+.search-card img {
+    max-width: 150px;
+}
